@@ -1,0 +1,12 @@
+{
+    "name": "jazzdan/phan-eval-plugin",
+    "require": {
+        "etsy/phan": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Dan Miller",
+            "email": "dmiller@etsy.com"
+        }
+    ]
+}
